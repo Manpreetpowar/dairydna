@@ -203,7 +203,7 @@
 					console.log(data);
 					//    $("#submitForm")[0].reset();
 					
-					// If data inserted into DB
+					// If data inserted into DB bhsdhs dsvdsvdh 
 					if (data.success) {
 					
 						$('.modal-dismiss').click(function (e) {
